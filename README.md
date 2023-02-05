@@ -6,3 +6,5 @@ This assignment was done in NodeJS, this language's output is completely done in
 
 The command to run this project is `node app.js`
 Simply open a command prompt and navigate to the API Prototype directory and then type that in. It will run the project and should run as expected.
+
+You can download the NodeJS Framework here https://nodejs.org/en/download/
